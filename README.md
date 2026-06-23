@@ -1,8 +1,9 @@
 
 <h1 align="center">
-  ![Santosh.Ojha](santosh.ojha.jpg)
+  
+  ![Santosh.Ojha](./santosh.ojha.jpg)
+  
 </h1>
-
 
 ---
 
